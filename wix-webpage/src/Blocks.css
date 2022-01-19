@@ -1,0 +1,20 @@
+.flex-container {
+  background-color: rgb(33, 33, 141);
+  padding: 40px;
+  display: flex;
+  justify-content: space-around;
+  color: white;
+}
+.input {
+  background-color: rgb(33, 33, 141);
+  border: 1px solid rgb(33, 33, 141);
+  width: 40%;
+  padding: 15px;
+  border-radius: 6px;
+  text-decoration: underline;
+  display: inline-block;
+  font-weight: bold;
+}
+p {
+  font-size: 13px;
+}

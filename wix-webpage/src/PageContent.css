@@ -1,0 +1,21 @@
+button {
+  border: 1px solid white;
+  background: rgb(51, 49, 156);
+  width: 20%;
+  padding: 15px;
+  border-radius: 6px;
+  color: rgb(242, 242, 247);
+  transition: background 0.5s ease;
+}
+
+button:hover {
+  background: rgb(5, 5, 24);
+  color: rgb(241, 240, 247);
+  font-weight: normal;
+}
+.container {
+  text-align: center;
+}
+.tiny {
+  font-size: 9px;
+}

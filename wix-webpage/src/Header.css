@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+}
+.header {
+  background-color: rgb(247, 252, 252);
+  display: flex;
+  align-items: baseline;
+  padding: 0.5rem;
+  gap: 1rem;
+}
+.tree {
+  background-color: none;
+  text-decoration: none;
+  border: none;
+  color: rgb(15, 15, 15);
+  font-family: inherit;
+  font-size: inherit;
+  cursor: pointer;
+  padding: 0;
+  margin-left: 30px;
+}
+.bt {
+  font-family: impact;
+  font-size: 25px;
+}
+
+.btn {
+  margin-left: 600px;
+  margin-right: 0px;
+  border-radius: 4px;
+  cursor: pointer;
+  border: 1px solid #3498db;
+  background-color: transparent;
+  height: 30px;
+  width: 100px;
+}
