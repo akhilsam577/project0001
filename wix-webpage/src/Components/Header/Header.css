@@ -4,9 +4,9 @@ body {
 .header {
   background-color: rgb(247, 252, 252);
   display: flex;
-  align-items: baseline;
+  flex-direction: space-between;
   padding: 0.5rem;
-  gap: 1rem;
+  gap: 40%;
 }
 .tree {
   background-color: none;
@@ -25,12 +25,22 @@ body {
 }
 
 .btn {
-  margin-left: 600px;
-  margin-right: 0px;
-  border-radius: 4px;
   cursor: pointer;
-  border: 1px solid #3498db;
+  border: 1px solid #1111ce;
+  border-radius: 14px;
   background-color: transparent;
-  height: 30px;
+  height: 15px;
   width: 100px;
+  color: rgb(12, 116, 207);
+  margin-top: 10px;
+}
+.btn:hover {
+  background-color: #1111ce;
+  color: white;
+}
+span {
+  margin: 10px;
+  font-size: 14px;
+  position: relative;
+  top: -10px;
 }

@@ -1,6 +1,6 @@
 import React from "react";
-import "./PageContent.css";
-const PageContent = () => {
+import "./Block1.css";
+const Block1 = () => {
   return (
     <div class="container">
       <h1>
@@ -24,4 +24,4 @@ const PageContent = () => {
   );
 };
 
-export default PageContent;
+export default Block1;

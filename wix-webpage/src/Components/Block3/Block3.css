@@ -1,0 +1,33 @@
+.container11 {
+  display: flex;
+  justify-content: center;
+}
+.container12 {
+  text-align: match parent;
+}
+.maindiv {
+  margin: auto;
+  width: 40%;
+  border: 3px solid white;
+}
+.img {
+  padding: 40px;
+}
+.info1 {
+  padding: 25px;
+  margin-top: 5px;
+}
+.info {
+  padding: 15px;
+}
+.tag1 {
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.5s ease;
+}
+a:hover {
+  color: rgb(49, 15, 238);
+}
+.imgs {
+  padding: 55px;
+}

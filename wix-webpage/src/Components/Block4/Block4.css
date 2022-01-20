@@ -1,0 +1,15 @@
+.block {
+  background-color: hsl(0, 0%, 98%);
+  display: flex;
+  justify-content: space-between;
+  color: rgb(8, 8, 8);
+}
+.block01 {
+  padding: 20px 45px;
+}
+.imgg {
+  display: flex;
+  flex-direction: column;
+  padding: 0px;
+  width: 50%;
+}

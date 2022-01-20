@@ -1,0 +1,11 @@
+.footer {
+  background-color: rgb(255, 255, 255);
+  padding: 0px;
+  display: flex;
+  justify-content: space-evenly;
+  color: rgb(5, 5, 5);
+}
+.logos img {
+  height: 30px;
+  width: 30px;
+}

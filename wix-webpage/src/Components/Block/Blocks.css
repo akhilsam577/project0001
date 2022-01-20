@@ -6,12 +6,15 @@
   color: white;
 }
 .flex-container1 {
-  background-color: #146356;
-  padding: 40px;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   color: white;
 }
+.padding-flex {
+  color: black;
+  padding: 0px 40px;
+}
+
 .input {
   background-color: rgb(33, 33, 141);
   border: 1px solid rgb(33, 33, 141);
